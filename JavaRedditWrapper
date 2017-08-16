@@ -3,7 +3,7 @@ package redditBot;
 /**
  * Java Wrapper for the Reddit API
  * 
- * Started by Josh Kruse (a.k.a mrblahblahblacksheep) on 8/11/2014
+ * Started by Josh Kruse on 8/11/2014
  *
  * Current Features:
  * 1.  Connects to reddit
